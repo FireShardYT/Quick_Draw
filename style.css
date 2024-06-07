@@ -1,0 +1,21 @@
+body {
+    background-color: orange;
+}
+
+#score {
+    font-size: medium;
+    float: right;
+    margin-right: 10px;
+}
+
+#sketch-drawn {
+    color: black;
+}
+
+#timer {
+    float: left;
+}
+
+#sketches {
+    float: right;
+}
